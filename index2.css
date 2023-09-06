@@ -1,0 +1,36 @@
+.btn{
+    color: black;
+    background-color: white;
+    border-style: none;
+    height: 40px;
+    width: 150px;
+    border-radius: 8px;
+}
+center a:hover{
+    color: yellow;
+}
+.end2{
+    margin-left: 450px;
+    
+}
+.end1{
+    float: left;
+    margin-left: 70px;
+}
+.end{
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.hb{
+    font-size: 25px;
+    font-weight: bold;
+}
+.pb{
+    letter-spacing: 1px;
+}
+.wrapper{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}

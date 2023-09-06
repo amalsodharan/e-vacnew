@@ -1,0 +1,68 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+body{
+    font-family: sans-serif;
+}
+nav{
+    width: 100%;
+}
+nav ul{
+    list-style: none;
+    background: rgba(0,0,0,0);
+    overflow: hidden;
+    color: black;
+    padding: 0;
+    text-align: center;
+    margin: 0;
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+nav ul li a:hover{
+    color: yellow;
+}
+.logo{
+    float: left;
+    margin: 14px 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+.menu{
+    margin-left: 400px;
+}
+.top{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    position: fixed;
+}
+.bar{
+    text-align: center;
+    letter-spacing: 1px;
+    height: 45px;
+    width: 300px;
+    border-style: none;
+    border-radius: 8px;
+    background-color: white;
+}
+.but{
+    height: 40px;
+    width: 90px;
+    border-style: none;
+    border-radius: 8px;
+    background-color: blue;
+    color: white;
+}
